@@ -1,1 +1,1 @@
-# PyMC-Examples
+# Bayesian Notebooks
